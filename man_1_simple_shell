@@ -1,4 +1,4 @@
-.TH _shell(1) "November 28,  2019" "_shell man page"
+.TH _shell(1) "May 15,  2022" "_shell man page"
 
 .SH NAME
 -hsh \- shell, the standard command language interpreter.
@@ -42,12 +42,12 @@ main.c    README.md     library.h     helpFunctions.c     builtinsFunctions.c
 .LP
 pwd
 .LS
-/home/vagrant//hbn/SakShell
+/home/vagrant//hbn/Shell
 .LP
 .SH EXIT STATUS
 Errors that are detected by the shell, such as a syntax error, will cause the shell to exit with a non-zero exit status.  If the shell is not an interactive shell, the execution of the shell file will be aborted.  Otherwise the shell will return the exit status of the last command executed, or if the exit builtin is used with a numeric argument, it will return the argument.
 
 .LP
 .SH AUTHORS
-Kevin Giraldo and Sara Hincapié.
+Kelvin Wainaina and Christabel.
 

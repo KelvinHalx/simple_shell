@@ -13,10 +13,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ---
-## Authors 
----
-* Kevin Giraldo [Twitter](https://twitter.com/akegiraldo) - [Linkedin](https://www.linkedin.com/in/akegiraldo)
-* Sara Hincapié [Twitter](https://twitter.com/sahimo5) - [Linkedin](https://www.linkedin.com/in/sahimo/)
+
 
 ---
 ## Introduction
